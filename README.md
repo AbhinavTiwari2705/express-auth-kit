@@ -28,14 +28,14 @@ A complete authentication solution for Express.js applications with support for 
 ## Installation
 
 ```bash
-npm install @abhinavtiwari2705/express-auth-kit
+npm install express-auth-kit
 ```
 
 ## Quick Start
 
 ```javascript
 const express = require('express');
-const AuthKit = require('@abhinavtiwari2705/express-auth-kit');
+const AuthKit = require('express-auth-kit');
 
 const app = express();
 
